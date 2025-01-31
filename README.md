@@ -72,6 +72,23 @@ Reasons for choosing accuracy as a metric:
 ![image](https://github.com/user-attachments/assets/006f99d5-0d0b-4d7c-bca7-600b7947d47c)
 ![image](https://github.com/user-attachments/assets/fad52bee-5a39-4366-ba39-500bbb8b8dbd)
 
+## Business Recommendation
+1. Number of Applicants Accepted
+   
+Selection Process Optimization: By identifying factors such as qualifications and skills as the most important features, focus on automating the selection process based on these criteria to minimize human error and ensure that only applicants who meet the standards are processed further.
+Enhanced Candidate Profiles: Use qualifications data to customize job openings to attract more qualified applicants and increase the chances of hiring.
+
+2. Key Performance Indicators (KPIs):
+
+Improved Recruitment KPIs: Focus on reducing processing time and increasing the speed of recruitment. If the recruitment process is still taking too long, use sentiment analysis to understand whether applicants perceive the process as lengthy and automate certain stages.
+Set KPIs for Automation: Define KPIs for reduced applicant evaluation time (for example, reduced interview and test times) and increased acceptance rates based on more prescriptive qualifications data.
+
+3. Employee Recruitment Efficiency
+
+Recruitment Technology Implementation: Utilize automation tools such as automated video interviews, AI screening tools, and automated scheduling to reduce the time required for applicant selection.
+Use of Automated Aptitude Tests: Implement tests that automatically provide results within minutes, compared to traditional methods with longer turnaround times.
+Review and Simplification of the Recruitment Process: Identify and streamline each stage of the recruitment process to accelerate the timeline without compromising the quality of selection.
+
 ## Conclusion
 
 By utilizing Feature Importance from the SVM model, we can gain invaluable insights into the recruitment process. This can provide business insights into the influence of qualifications, skills, response time, and demographics on applicant acceptance. By implementing this strategy, the recruitment process can become more efficient and yield better results according to desired metrics.
